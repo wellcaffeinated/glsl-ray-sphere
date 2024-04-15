@@ -13,6 +13,10 @@ This implementation uses the algorithm that bypasses those issues.
 
 Intended for use with [glslify](http://github.com/chrisdickinson/glslify).
 
+```sh
+npm install glsl-ray-sphere
+```
+
 ## Usage
 
 ``` glsl
