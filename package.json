@@ -1,0 +1,26 @@
+{
+  "name": "glsl-ray-sphere",
+  "version": "0.0.1",
+  "description": "Ray-sphere intersection in GLSL bypassing precision issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wellcaffeinated/glsl-ray-sphere.git"
+  },
+  "keywords": [
+    "glsl",
+    "ray",
+    "shader",
+    "sphere",
+    "webgl",
+    "glslify"
+  ],
+  "author": "Jasper Palfree",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wellcaffeinated/glsl-ray-sphere/issues"
+  }
+}
