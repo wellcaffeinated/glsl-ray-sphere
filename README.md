@@ -1,4 +1,4 @@
-# glsl-ray-sphere [![frozen](http://hughsk.github.io/stability-badges/dist/frozen.svg)](http://github.com/hughsk/stability-badges)
+# glsl-ray-sphere [![stable](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 
 GLSL Ray-Sphere intersection bypassing precision issues
 
